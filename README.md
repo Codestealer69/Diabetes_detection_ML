@@ -62,7 +62,7 @@ npm install git+https://github.com/Sayan-Maity-Code/Diabetes_detection_ML/blob/m
 
 ## File Setup
 
-1. Data Preparation: Ensure your dataset is in CSV format and named diabetes.csv.
+1. Data Preparation: Ensure your dataset is in CSV format and named `diabetes.csv`.
 2. Running the Code: Execute the Python script to load, preprocess, train, and predict using the diabetes prediction model.
 
 `python Diabetes_Project(ML).py`
